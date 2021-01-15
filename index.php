@@ -6,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>DEUS SEJA LOUVADO</h1>
+    <?php
+    echo"o maior de todos é Deus";
+    ?>
 </body>
 </html>
